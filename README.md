@@ -29,3 +29,18 @@ This project was created to demonstrate Python programming concepts including fi
 
 ## Disclaimer
 This project is for educational purposes only and does not provide medical advice, diagnosis, or treatment recommendations.
+
+```Sample Output
+Medical Side Effect Tracker
+Add Entry
+View Entries
+Show Summary
+Exit
+
+Logged Side Effects:
+
+Medication: Ibuprofen
+Side Effect: Nausea
+Severity: 3
+Date: 2026-04-02
+```
